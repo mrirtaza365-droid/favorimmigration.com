@@ -1,0 +1,8 @@
+{
+  "name": "Favor Insur & Immigration Services",
+  "description": "Professional local business website for an insurance and immigration services firm in Orange Park, Florida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
